@@ -1,0 +1,8 @@
+Abbreviation,cars_per_cap,country,drives_right
+a,US,45,America,True
+b,AUS,731,Australia,False
+c,JAP,588,Japan,True
+d,IN,18,India,False
+e,RU,200,Russia,True
+f,MOR,70,Morocco,True
+g,EG,45,Egypt,True
